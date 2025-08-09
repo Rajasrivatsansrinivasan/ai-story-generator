@@ -1,33 +1,22 @@
-# 🧠 StoryWeaver X — AI Story Generator
+# StoryWeaver X — AI Story Generator
 
 **StoryWeaver X** is an AI-powered web app that generates creative stories based on your input. Choose the genre, language, prose style, and mood—or even upload a file—and let the app create or continue a story with voice narration.
 
 ---
 
-## ✨ Features
+## Features
 
-- 🎭 Genre, Mood, Language & Prose Style selection
-- 🧠 AI-powered story creation using Groq’s LLaMA 3
-- 📖 Upload a file or type to continue an existing story
-- 🔊 Voice narration with MP3 download
-- 🎨 Stylish black-grey-pink themed UI
-- 💾 Downloadable story and audio files
+- Genre, Mood, Language & Prose Style selection
+- AI-powered story creation using Groq’s LLaMA 3
+- Upload a file or type to continue an existing story
+- Voice narration with MP3 download
+- Stylish black-grey-pink themed UI
+- Downloadable story and audio files
 
----
-
-## 📸 Output Previews
-
-### 🔊 Audio Sample  
-**File**: `static/stories/story_1754688319.mp3`  
-> ![Audio Preview](static/stories/story_1754688319.mp3)
-
-### 📄 Story Text File  
-**File**: `static/stories/story_1754688319.txt`  
-> ![Story File Preview](static/stories/story_1754688319.txt)
 
 ---
 
-## 🚀 Run Locally
+## Run Locally
 
 ### 1. Clone the repository
 ```bash
@@ -59,7 +48,7 @@ Visit `http://127.0.0.1:5000` in your browser.
 
 ---
 
-## 🗂 Folder Structure
+## Folder Structure
 
 ```
 ai-story-generator/
@@ -78,13 +67,13 @@ ai-story-generator/
 
 ---
 
-## 🙌 Author & Credits
+## Author & Credits
 
 Developed by [Rajasrivatsan Srinivasan](https://github.com/Rajasrivatsansrinivasan)  
 Powered by Groq + gTTS for AI story generation and audio
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License.
